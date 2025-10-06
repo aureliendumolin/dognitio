@@ -30,7 +30,7 @@ La démarche de la plateforme repose sur trois piliers fondamentaux :
 ### 1. [Index SQR](./docs/sqr_index/sqr_index.md)  
 > Un index rigoureux pour évaluer la qualité et la pertinence d'une source scientifique dans un contexte donné.
 
-### 2. [Framework ANIMA](./docs/anima_framework/anima_framework.md) (en cours)
+### 2. [Framework ANIMA](./docs/anima_framework/anima_framework) (en cours)
 > Un cadre de travail complet pour comprendre, évaluer et entraîner les fonctions cognitives canines.
 
 ### 3. Compendium Canin (à venir)
