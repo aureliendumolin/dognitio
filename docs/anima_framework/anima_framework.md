@@ -4,11 +4,6 @@
     <img src="../assets/branding/logo_dognitio_full_cut.png" alt="Logo Dognitio" width="360"/>
   </p>
   
-  <a href="">![Auteur: Aurélien Dumolin](https://img.shields.io/badge/Auteur-Aurélien_Dumolin-blue.svg)</a>
-  <a href="">[![Licence: CC BY-NC-ND 4.0](https://img.shields.io/badge/Licence-CC--BY--NC--ND-orange.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)</a>
-  <a href="">![Soumis le : 2025-10-07 ](https://img.shields.io/badge/Soumis%20le-2025--10--07-lightgrey.svg)</a>
-  <a href="">![Mis à jour le : 2025-10-07 ](https://img.shields.io/badge/Mis%20à%20jour%20le-2025--10--07-lightgrey.svg)</a>
-
   <a href="#"><img alt="Auteur : Aurélien Dumolin" src="https://img.shields.io/badge/Auteur-Aur%C3%A9lien%20Dumolin-blue.svg"></a>
   <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licence : CC BY-NC-ND 4.0" src="https://img.shields.io/badge/Licence-CC--BY--NC--ND-orange.svg"></a>
   <a href="#"><img alt="Soumis le : 2025-10-07" src="https://img.shields.io/badge/Soumis%20le-2025--10--07-lightgrey.svg"></a>
