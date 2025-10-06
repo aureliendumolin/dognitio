@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-  <h1>ANIMA FRAMEWORK</h1>
+  <h1>FRAMEWORK ANIMA</h1>
   <em>Targeted Cognitive Activation for Real-world Transfer</em>
 </div>
 
