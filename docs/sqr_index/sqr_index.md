@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-  <h1>SQR INDEX</h1>
+  <h1>INDEX SQR</h1>
   <em>Source Quality & Relevance</em>
 </div>
 
