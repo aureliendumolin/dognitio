@@ -15,7 +15,7 @@
 
 <div align="center">
   <h1>FRAMEWORK ANIMA</h1>
-  <em>Targeted Cognitive Activation for Real-world Transfer</em>
+  <em>Activation cognitive ciblée pour le transfert écologique</em>
 </div>
 
 ---
