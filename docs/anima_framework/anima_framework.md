@@ -67,10 +67,10 @@ Pour ce faire, le framework déploie une architecture rigoureuse qui s'articule 
 
 Les objectifs opérationnels du framework sont clairs :
 
-  * **Couvrir** le spectre des fonctions cognitives grâce à la taxonomie pour limiter les angles morts.
-  * **Rendre traçable** la conversion d'un paradigme en un protocole d'entraînement (paramètres, dosage, adaptations).
-  * **Garantir le suivi conjoint** des indices de performance natifs et des indicateurs de transfert en contexte réel.
-  * **Faciliter l'agrégation** des preuves issues du terrain pour permettre une méta-lecture des résultats et l'amélioration continue des protocoles.
+  - **Couvrir** le spectre des fonctions cognitives grâce à la taxonomie pour limiter les angles morts.  
+  - **Rendre traçable** la conversion d'un paradigme en un protocole d'entraînement (paramètres, dosage, adaptations).  
+  - **Garantir le suivi conjoint** des indices de performance natifs et des indicateurs de transfert en contexte réel.  
+  - **Faciliter l'agrégation** des preuves issues du terrain pour permettre une méta-lecture des résultats et l'amélioration continue des protocoles.
 
 Le succès de cette approche sera mesuré par des indicateurs concrets, tels que la fidélité d'implémentation des protocoles, l'amélioration quantifiable des indices natifs (ex: diminution du SSRT, augmentation de d'), et surtout, la corrélation objectivée entre ces gains et des bénéfices écologiques mesurables (ex: baisse d'incidents liés à l'impulsivité, meilleure réussite sur des tâches professionnelles). En somme, en orchestrant la pluralité des approches scientifiques, ANIMA fournit l'outillage nécessaire pour poser, pour la première fois, la question du transfert de manière systématique et mesurable, avec pour finalité la démonstration d'un bénéfice écologique réel.
 
