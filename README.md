@@ -40,7 +40,7 @@ La démarche de la plateforme repose sur trois piliers fondamentaux :
 
 ## Licence
 
-Ce contenu est protégé par la licence **CC BY-NC-ND 4.0** : 
+Le contenu de la totalité de la plateforme est protégé par la licence **CC BY-NC-ND 4.0** : 
 - **(BY) Attribution obligatoire** : vous devez citer l’auteur (**Aurélien Dumolin**).  
 - **(NC) Usage commercial interdit** : toute utilisation à des fins commerciales est strictement prohibée.  
 - **(ND) Modifications interdites** : vous ne pouvez pas modifier, transformer ou adapter ce contenu.  
