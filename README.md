@@ -11,17 +11,6 @@
   
 </div>
 
-
-
-<p align="center">
-  <a href="https://aureliendumolin.github.io/dognitio/">
-    <img src="docs/assets/branding/logo_dognitio_full_cut.png" alt="Logo Dognitio" width="360" />
-  </a>
-</p>
-
-![Auteur: Aurélien Dumolin](https://img.shields.io/badge/Auteur-Aurélien_Dumolin-blue.svg)
-[![Licence: CC BY-NC-ND 4.0](https://img.shields.io/badge/Licence-CC--BY--NC--ND-orange.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
 ```
 ⚠️ Plateforme en évolution constante. Le contenu est mis à jour et enrichi régulièrement.
 ```
