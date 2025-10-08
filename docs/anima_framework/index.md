@@ -42,7 +42,7 @@ Accédez ici aux bibliothèques de fiches standardisées, conçues pour une util
 
 - **[Bibliothèque des Profils Cognitifs](./profils-cognitifs/index.md)** : Le point de départ. Une collection de cas d'usage et de problématiques de terrain (ex: Profil du Chien Guide).
 
-- **[Bibliothèque des Fonctions Cognitives](./fiches-cognitives/index.md)** : Le catalogue des fonctions cognitives détaillées selon la taxonomie ANIMA.
+- **[Bibliothèque des Fonctions Cognitives](./cognitive_functions/)** : Le catalogue des fonctions cognitives détaillées selon la taxonomie ANIMA.
 
 - **[Bibliothèque des Protocoles d'Entraînement](./fiches-protocoles/index.md)** : La collection des protocoles et paradigmes validés pour l'entraînement.
 
