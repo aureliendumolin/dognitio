@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/branding/logo_dognitio_full_cut.png" alt="Logo Dognitio" width="360"/>
+  <img src="docs/assets/branding/logo_dognitio_full_cut.png" alt="Logo Dognitio" width="300"/>
 </p>
 
 ![Auteur: Aurélien Dumolin](https://img.shields.io/badge/Auteur-Aurélien_Dumolin-blue.svg)
