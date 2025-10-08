@@ -2,7 +2,7 @@
 
   <p align="center">
     <a href="https://aureliendumolin.github.io/dognitio/">
-      <img src="docs/assets/branding/logo_dognitio_full_cut.png" alt="Logo Dognitio" width="360" />
+      <img src="../assets/branding/logo_dognitio_full_cut.png" alt="Logo Dognitio" width="360" />
     </a>
   </p>
   
