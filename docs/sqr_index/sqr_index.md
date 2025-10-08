@@ -15,7 +15,7 @@
 
 <div align="center">
   <h1>INDEX SQR</h1>
-  <em>Qualité et Pertinence des Sources</em>
+  <em>Indication de la Qualité et de la Pertinence des Sources</em>
 </div>
 
 ---
