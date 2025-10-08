@@ -1,7 +1,9 @@
 <div align="center">
 
   <p align="center">
-    <img src="../assets/branding/logo_dognitio_full_cut.png" alt="Logo Dognitio" width="360"/>
+    <a href="https://aureliendumolin.github.io/dognitio/">
+      <img src="docs/assets/branding/logo_dognitio_full_cut.png" alt="Logo Dognitio" width="360" />
+    </a>
   </p>
   
   <a href="#"><img alt="Auteur : Aurélien Dumolin" src="https://img.shields.io/badge/Auteur-Aur%C3%A9lien%20Dumolin-blue.svg"></a>
