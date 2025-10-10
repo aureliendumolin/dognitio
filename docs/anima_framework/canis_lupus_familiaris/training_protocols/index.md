@@ -38,26 +38,26 @@ Cette page est organisée en deux sections pour une flexibilité maximale :
 - **[Apprentissage Inversé (Reversal Learning)]**
   *Mission : Entraîner la capacité à inhiber une règle apprise au profit d'une nouvelle.*
 
-- **[Jeu des Gobelets (Shell Game)](./protocoles/shell-game.md)**
+- **[Jeu des Gobelets (Shell Game)]**
   *Mission : Entraîner le suivi et la mise à jour de plusieurs informations spatiales en mouvement.*
 
-- **[Résolution de Problèmes en Plusieurs Étapes](./protocoles/multi-step-problem-solving.md)**
+- **[Résolution de Problèmes en Plusieurs Étapes]**
   *Mission : Renforcer la capacité à comprendre et exécuter une séquence causale d'actions.*
 
-- **[Tâche à Réponse Différée](./protocoles/delayed-response_task.md)**
+- **[Tâche à Réponse Différée]**
   *Mission : Améliorer le maintien d'une information spatiale simple malgré un délai.*
 
-- **[Tâche de Décision d'Effort](./protocoles/effort-based-decision-making.md)**
+- **[Tâche de Décision d'Effort]**
   *Mission : Mesurer et moduler la propension à investir de l'effort pour une récompense.*
 
-- **[Tâche de Flanker](./protocoles/flanker_task.md)**
+- **[Tâche de Flanker]**
   *Mission : Renforcer la résistance à l'interférence des distracteurs.*
 
 - **[Tâche Go/No-Go](./go-no-go_task.md)**
   *Mission : Renforcer l'inhibition de réponse proactive (retenir une action).*
 
-- **[Tâche Stop-Signal](./protocoles/stop-signal_task.md)**
+- **[Tâche Stop-Signal]**
   *Mission : Renforcer l'inhibition de réponse réactive (annuler une action en cours).*
 
-- **[Tour de Hanoï](./protocoles/tower-of-hanoi.md)**
+- **[Tour de Hanoï]**
   *Mission : Entraîner la formulation d'un plan en plusieurs étapes en respectant des contraintes.*
