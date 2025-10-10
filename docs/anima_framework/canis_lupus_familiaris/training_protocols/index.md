@@ -25,10 +25,6 @@
 
 Vous trouverez ici le catalogue des protocoles d'entraînement du framework ANIMA. Chaque protocole est une adaptation opérationnelle d'un paradigme scientifique validé, conçu pour cibler et stimuler une ou plusieurs fonctions cognitives.
 
-Cette page est organisée en deux sections pour une flexibilité maximale :
-1.  **La liste alphabétique** ci-dessous décrit chaque protocole disponible.
-2.  **L'index par fonction** (plus bas) vous permet de trouver rapidement les outils les plus pertinents pour une compétence cognitive que vous souhaitez entraîner.
-
 *Note importante : La sécurité et le bien-être de l'animal sont prioritaires. Ces protocoles sont des cadres de référence qui doivent toujours être adaptés à l'individu. Un protocole ne doit jamais être poursuivi si l'animal montre des signes de stress ou de frustration excessive. Cette bibliothèque est évolutive et sera enrichie continuellement.*
 
 ---
