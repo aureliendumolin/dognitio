@@ -1,4 +1,27 @@
-# Bibliothèque des Fonctions Cognitives
+<div align="center">
+
+  <p align="center">
+    <a href="https://aureliendumolin.github.io/dognitio/">
+      <img src="../../../assets/branding/logo_dognitio_full_cut.png" alt="Logo Dognitio" width="160" />
+    </a>
+  </p>
+
+  
+  <a href="#"><img alt="Auteur : Aurélien Dumolin" src="https://img.shields.io/badge/Auteur-Aur%C3%A9lien%20Dumolin-blue.svg"></a>
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licence : CC BY-NC-ND 4.0" src="https://img.shields.io/badge/Licence-CC--BY--NC--ND-orange.svg"></a>
+  <a href="#"><img alt="Soumis le : 2025-10-10" src="https://img.shields.io/badge/Soumis%20le-2025--10--10-lightgrey.svg"></a>
+  <a href="#"><img alt="Mis à jour le : 2025-10-10" src="https://img.shields.io/badge/Mis%20%C3%A0%20jour%20le-2025--10--10-lightgrey.svg"></a>
+  
+</div>
+
+---
+
+<div align="center">
+  <h1>FONCTIONS COGNITIVES</h1>
+  <em>Bibliothèque</em>
+</div>
+
+---
 
 Vous trouverez ici le catalogue complet des 12 familles de fonctions cognitives structurées selon la taxonomie ANIMA. Cette bibliothèque a pour but de fournir une cartographie exhaustive du champ cognitif, de ses fondations à ses processus les plus intégrés.
 
