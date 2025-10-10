@@ -70,7 +70,7 @@ Les familles 2 à 7 forment le cœur du traitement de l'information, de l'acquis
 ### Famille 7 : Fonctions exécutives
 *Mission : Orchestrer le comportement dirigé vers un but (inhiber, basculer, mettre à jour, planifier).*
 - **[`F7.1` Contrôle inhibiteur](./07.01_inhibitory_control.md)**
-- `F7.2` Flexibilité cognitive (shifting)
+- **[`F7.2` Flexibilité cognitive (shifting)](./07.02_cognitive_flexibility.md)**
 - `F7.3` Mise à jour en MDT (gating)
 - `F7.4` Planification & organisation
 - `F7.5` Surveillance des erreurs
