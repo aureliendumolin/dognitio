@@ -35,7 +35,7 @@ Cette page est organisée en deux sections pour une flexibilité maximale :
 
 ## Liste Alphabétique des Protocoles
 
-- **[Apprentissage Inversé (Reversal Learning)](./protocoles/reversal-learning.md)**
+- **[Apprentissage Inversé (Reversal Learning)]**
   *Mission : Entraîner la capacité à inhiber une règle apprise au profit d'une nouvelle.*
 
 - **[Jeu des Gobelets (Shell Game)](./protocoles/shell-game.md)**
