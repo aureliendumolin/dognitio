@@ -53,7 +53,7 @@ Cette page est organisée en deux sections pour une flexibilité maximale :
 - **[Tâche de Flanker](./protocoles/flanker_task.md)**
   *Mission : Renforcer la résistance à l'interférence des distracteurs.*
 
-- **[Tâche Go/No-Go](./protocoles/go-no-go_task.md)**
+- **[Tâche Go/No-Go](./go-no-go_task.md)**
   *Mission : Renforcer l'inhibition de réponse proactive (retenir une action).*
 
 - **[Tâche Stop-Signal](./protocoles/stop-signal_task.md)**
