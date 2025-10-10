@@ -74,7 +74,7 @@ Les familles 2 à 7 forment le cœur du traitement de l'information, de l'acquis
 - **[`F7.3` Mémoire de travail (mise à jour)](./07.03_working_memory_updating.md)**
 - **[`F7.4` Planification & organisation](./07.04_planning_&_organization.md)**
 - **[`F7.5` Surveillance des erreurs](./07.05_error_monitoring.md)**
-- **[`F7.6` Allocation d’effort](./07.06_cognitive_effort_allocation.md)**
+- **[`F7.6` Allocation d’effort cognitif](./07.06_cognitive_effort_allocation.md)**
 
 ---
 
