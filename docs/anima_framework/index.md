@@ -42,7 +42,7 @@ Cette section contient le document principal qui expose la vision, les principes
 
 Accédez ici aux bibliothèques de fiches standardisées, conçues pour une utilisation sur le terrain.
 
-- **[Bibliothèque des Profils Cognitifs](./profils-cognitifs/index.md)** : Le point de départ. Une collection de cas d'usage et de problématiques de terrain (ex: Profil du Chien Guide).
+- **[Bibliothèque des Profils Cognitifs](./canis_lupus_familiaris/cognitive_profiles/)** : Le point de départ. Une collection de cas d'usage et de problématiques de terrain (ex: Profil du Chien Guide).
 
 - **[Bibliothèque des Fonctions Cognitives](./canis_lupus_familiaris/cognitive_functions/)** : Le catalogue des fonctions cognitives détaillées selon la taxonomie ANIMA.
 
