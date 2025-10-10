@@ -31,29 +31,29 @@ Vous trouverez ici le catalogue des protocoles d'entraînement du framework ANIM
 
 ## Liste Alphabétique des Protocoles
 
-- **[Apprentissage Inversé (Reversal Learning)]**
+- **Apprentissage Inversé (Reversal Learning)**
   *Mission : Entraîner la capacité à inhiber une règle apprise au profit d'une nouvelle.*
 
-- **[Jeu des Gobelets (Shell Game)]**
+- **Jeu des Gobelets (Shell Game)**
   *Mission : Entraîner le suivi et la mise à jour de plusieurs informations spatiales en mouvement.*
 
-- **[Résolution de Problèmes en Plusieurs Étapes]**
+- **Résolution de Problèmes en Plusieurs Étapes**
   *Mission : Renforcer la capacité à comprendre et exécuter une séquence causale d'actions.*
 
-- **[Tâche à Réponse Différée]**
+- **Tâche à Réponse Différée**
   *Mission : Améliorer le maintien d'une information spatiale simple malgré un délai.*
 
-- **[Tâche de Décision d'Effort]**
+- **Tâche de Décision d'Effort**
   *Mission : Mesurer et moduler la propension à investir de l'effort pour une récompense.*
 
-- **[Tâche de Flanker]**
+- **Tâche de Flanker**
   *Mission : Renforcer la résistance à l'interférence des distracteurs.*
 
 - **[Tâche Go/No-Go](./go-no-go_task.md)**
   *Mission : Renforcer l'inhibition de réponse proactive (retenir une action).*
 
-- **[Tâche Stop-Signal]**
+- **Tâche Stop-Signal**
   *Mission : Renforcer l'inhibition de réponse réactive (annuler une action en cours).*
 
-- **[Tour de Hanoï]**
+- **Tour de Hanoï**
   *Mission : Entraîner la formulation d'un plan en plusieurs étapes en respectant des contraintes.*
