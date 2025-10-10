@@ -33,7 +33,7 @@ La démarche de la plateforme repose sur trois piliers fondamentaux :
 
 ## Projets disponibles
 
-### 1. [Index SQR](./docs/sqr_index/sqr_index)  
+### 1. [Index SQR](./docs/sqr_index/)  
 > Un index rigoureux pour évaluer la qualité et la pertinence d'une source scientifique dans un contexte donné.
 
 ### 2. [Framework ANIMA](./docs/anima_framework/) (en cours)
