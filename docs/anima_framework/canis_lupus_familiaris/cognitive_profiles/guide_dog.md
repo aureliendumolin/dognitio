@@ -18,10 +18,8 @@
 
 <div align="center">
   <h1>CHIEN GUIDE</h1>
-  <em>Profil Cognitif</em>
+  <em>Profil Cognitif - Canis lupus familiaris</em>
 </div>
-
-> **Espèce Ciblée :** Canis lupus familiaris.  
 
 ---
 
