@@ -72,9 +72,9 @@ Les familles 2 à 7 forment le cœur du traitement de l'information, de l'acquis
 - **[`F7.1` Contrôle inhibiteur](./07.01_inhibitory_control.md)**
 - **[`F7.2` Flexibilité cognitive (shifting)](./07.02_cognitive_flexibility.md)**
 - **[`F7.3` Mémoire de travail (mise à jour)](./07.03_working_memory_updating.md)**
-- `F7.4` Planification & organisation
-- `F7.5` Surveillance des erreurs
-- `F7.6` Allocation d’effort
+- **[`F7.4` Planification & organisation](./07.04_planning_&_organization.md)**
+- **[`F7.5` Surveillance des erreurs](./07.05_error_monitoring.md)**
+- **[`F7.6` Allocation d’effort](./07.06_cognitive_effort_allocation.md)**
 
 ---
 
