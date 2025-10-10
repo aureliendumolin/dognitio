@@ -46,6 +46,6 @@ Accédez ici aux bibliothèques de fiches standardisées, conçues pour une util
 
 - **[Bibliothèque des Fonctions Cognitives](./canis_lupus_familiaris/cognitive_functions/)** : Le catalogue des fonctions cognitives détaillées selon la taxonomie ANIMA.
 
-- **[Bibliothèque des Protocoles d'Entraînement](./canis_lupus_familiaris/protocols/)** : La collection des protocoles et paradigmes validés pour l'entraînement.
+- **[Bibliothèque des Protocoles d'Entraînement](./canis_lupus_familiaris/training_protocols/)** : La collection des protocoles et paradigmes validés pour l'entraînement.
 
 ---
