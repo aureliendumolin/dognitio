@@ -28,8 +28,6 @@
 > **Objectif Clé :** Renforcer la capacité du chien à retenir une action motrice dominante et impulsive.  
 > **Transfert Principal :** Améliorer les auto-contrôles au quotidien (attente, refus d'appât...).
 
----
-
 ## 1. 🚨 Respect de la démarche LIMA
 
 Afin de garantir une adhésion stricte aux principes LIMA (Least Intrusive, Minimally Aversive), tous les protocoles du Framework TCART ont été adaptés. L'apprentissage est exclusivement structuré autour du renforcement positif et d'interventions minimalement invasives, assurant l'efficacité pédagogique tout en préservant le bien-être animal.
