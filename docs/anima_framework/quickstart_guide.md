@@ -24,7 +24,7 @@
 
 Ce guide explique comment utiliser le framework ANIMA en 5 étapes simples, du problème à la solution.
 
-Pour une explication approfondie de la théorie et de l'architecture du framework, veuillez consulter le document principal **[Le Document Fondateur](./anima_framework.md)**.
+Pour une explication approfondie de la théorie et de l'architecture du framework, veuillez consulter **[Le Document Fondateur](./anima_framework.md)**.
 
 ---
 ### Le Parcours d'Utilisation
