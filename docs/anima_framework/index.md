@@ -30,7 +30,7 @@ Bienvenue sur l'espace documentaire du framework ANIMA. Vous trouverez ici l'ens
 
 Nouveau sur le framework ANIMA ? Le guide de démarrage rapide est la meilleure porte d'entrée.
 
-- **[Consulter le Guide de Démarrage Rapide](./guide-rapide.md)**
+- **[Consulter le Guide de Démarrage Rapide](./quickstart_guide.md)**
 
 ### 2. Les Fondements
 
