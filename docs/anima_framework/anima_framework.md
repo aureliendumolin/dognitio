@@ -26,7 +26,7 @@
 
 #### Un outil fondé sur des preuves, perfectible par nature
 
-Reposant sur des bases scientifiques solides, principalement issues de publications évaluées par les pairs (sources peer-reviewed), le framework ANIMA se définit comme rihoureux. Pour autant, la science relève d’un processus de révision continue : ce cadre n’érige pas une vérité définitive, mais propose la meilleure synthèse possible à l'instant T. Cette première version comporte donc, inévitablement, des zones d’ombre et des approximations appelées à être affinées au fil du temps, grâce aux retours d’expérience et aux nouvelles sources d'informations.
+Reposant sur des bases scientifiques solides, principalement issues de publications évaluées par les pairs (sources peer-reviewed), le framework ANIMA se définit comme rigoureux. Pour autant, la science relève d’un processus de révision continue : ce cadre n’érige pas une vérité définitive, mais propose la meilleure synthèse possible à l'instant T. Cette première version comporte donc, inévitablement, des zones d’ombre et des approximations appelées à être affinées au fil du temps, grâce aux retours d’expérience et aux nouvelles sources d'informations.
 
 #### La validation et l'évolution par la pratique collective
 
